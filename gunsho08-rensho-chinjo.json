@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/rensho-chinjo",
  "yomi": "れんしょうちんじょう",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌学書（陳状）",
+  "era": "宝治2年（1248）9月以後",
+  "author": "蓮性（藤原知家）",
+  "desc": "宝治二年九月の仙洞（後嵯峨院）十首歌合で、判者為家に負とされた自歌について、蓮性が先例の歌を挙げて反論した陳状。"
+ },
  "editions": [
   {
    "pid": "1879502",
